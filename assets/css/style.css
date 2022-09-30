@@ -1,0 +1,17 @@
+.app {
+  background: #f1f1f1;
+  font-family: Arial, Helvetica, sans-serif;
+  display: grid;
+  grid-template-areas:
+    "encabezado"
+    "contenido"
+    "rodapie";
+}
+
+.encabezado {
+}
+.contenido {
+}
+
+.rodapie {
+}
